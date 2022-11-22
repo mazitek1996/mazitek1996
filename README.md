@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mazitek1996
+- 👋 Hi, I’m Mazitek
 - 👀 I’m interested in ... Coding, software developement and programming.
 - 🌱 I’m currently learning ...Javascripts and Python programming Languages
 - 💞️ I’m looking to collaborate on ... Building an application that will better the society and change lives for the better.
